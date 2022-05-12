@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "express": "^4.18.1",
-    "mongoose": "^6.3.3"
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16"
   },
   "homepage": "https://github.com/ryanh610/socialNetworkAPI#readme"
 }
